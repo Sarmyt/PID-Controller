@@ -10,13 +10,13 @@ The PID files show the code behind the PID controller. The "main.cpp" file allow
 
 1. Download the file named "Code".
 
-2. Run the install-ubuntu.sh file on the ubuntu terminal. 
+2. Run the install-ubuntu.sh file on the ubuntu terminal. (./install-ubuntu.sh)
 
-3. Run the build.sh file on the ubuntu terminal.
+3. Run the build.sh file on the ubuntu terminal. (./build.sh)
 
-4. A new folder named "Build" will be created.
+4. A new folder named "build" will be created, enter this file using the ubuntu terminal. (cd build)
 
-5. Enter this folder using the ubuntu terminal, and run the file named pid.
+5. Run the file named pid. (./pid)
 
 6. This will activate the websocket connection.
 
